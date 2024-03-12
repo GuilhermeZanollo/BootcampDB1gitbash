@@ -6,3 +6,5 @@
     - `git config --global user.name "meuUsuario"`  *configurar nome do usuário*
     - `git config --global user.email "meuEmail@gmail.com"` *configurar email*
 - Primeiros comandos
+
+- Criação para outro commit (teste de atualização de commit)
