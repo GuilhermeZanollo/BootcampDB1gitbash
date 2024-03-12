@@ -1,4 +1,4 @@
-# Repositório de aula sobre GitHub - BootCamp DB1 2024
+# Repositório de aula sobre Git e GitHub - BootCamp DB1 2024
 ## Primeira aula
 
 - Contexto teórico
